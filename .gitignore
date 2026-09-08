@@ -35,3 +35,6 @@ cache/
 # Variable files that may contain environment-specific/sensitive values
 *.tfvars
 *.tfvars.json
+
+#explicitly commit this file for the module 1 assignment
+!student.tfvars.json
