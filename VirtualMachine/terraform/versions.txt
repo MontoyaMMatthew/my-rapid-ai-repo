@@ -1,0 +1,15 @@
+Terraform v1.16.1
+on linux_amd64
+{
+  "azure-cli": "2.90.0",
+  "azure-cli-core": "2.90.0",
+  "azure-cli-telemetry": "1.1.0",
+  "extensions": {}
+}
+4.14.0
+Python 3.12.13
+Docker version 29.7.2, build a7dcaa6
+v3.21.4+g813176c
+Client Version: v1.37.0
+Kustomize Version: v5.8.1
+v22.23.2

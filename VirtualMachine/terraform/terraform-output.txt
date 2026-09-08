@@ -1,0 +1,5 @@
+auto_shutdown = "Your VM deallocates every day at 00:00 Eastern Standard Time. It never starts itself: before each session run 'az vm start --resource-group dev-jhu-Matthew-rg-uswc --name dev-jhu-Matthew-linuxvm-uswc'."
+provisioning_note = "GIVE THE VM 20 MINUTES: all course tools install in the background after this completes. Check progress with 'cloud-init status --wait' on the VM, then confirm with 'cat /var/log/provision-summary.txt' (every line should read OK)."
+public_ip = "52.152.177.124"
+resource_group = "dev-jhu-Matthew-rg-uswc"
+ssh_command = "ssh -i ~/.ssh/azure_lab mmonto16@52.152.177.124"
